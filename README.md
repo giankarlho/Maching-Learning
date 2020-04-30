@@ -1,148 +1,147 @@
 # Maching-Learning
 Cursos, libros, demos y todos los recursos posibles para ML, Deep Learning y Redes Neuronales
 
-Tomado de: https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
-
+## 1.- 65 libros de Ciencia de Datos de Springer
 Springer ha lanzado cientos de libros gratuitos sobre una amplia gama de temas al público en general. La lista incluye 408 libros pero se describe una lista de todos los libros (65) que son relevantes para el campo de datos y aprendizaje automático.
 Entre los libros, encontrará aquellos relacionados con el lado matemático del dominio (Álgebra, Estadísticas y más), junto con libros más avanzados sobre Aprendizaje profundo y otros temas avanzados. También puede encontrar algunos buenos libros en varios lenguajes de programación como Python, R y MATLAB, etc.
 
-Los elementos del aprendizaje estadístico
+- Los elementos del aprendizaje estadístico
 Trevor Hastie, Robert Tibshirani, Jerome Friedman
 http://link.springer.com/openurl?genre=book&isbn=978-0-387-84858-7
 
-Series temporales introductorias con R
+- Series temporales introductorias con R
 Paul SP Cowpertwait, Andrew V. Metcalfe
 http://link.springer.com/openurl?genre=book&isbn=978-0-387-88698-5
 
-Una guía para principiantes a R
+- Una guía para principiantes a R
 Alain Zuur, Elena N. Ieno, Erik Meesters
 http://link.springer.com/openurl?genre=book&isbn=978-0-387-93837-0
 
-Introducción a la informática evolutiva
+- Introducción a la informática evolutiva
 AE Eiben, JE Smith
 http://link.springer.com/openurl?genre=book&isbn=978-3-662-44874-8
 
-Análisis de los datos
+- Análisis de los datos
 Siegmund Brandt
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-03762-2
 
-Programacion Lineal y No Lineal
+- Programacion Lineal y No Lineal
 David G. Luenberger, Yinyu Ye
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-18842-3
 
-Introducción a las ecuaciones diferenciales parciales
+- Introducción a las ecuaciones diferenciales parciales
 David Borthwick
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-48936-0
 
-Fundamentos de los sistemas mecánicos robóticos
+- Fundamentos de los sistemas mecánicos robóticos
 Jorge Angeles
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-01851-5
 
-Estructuras de datos y algoritmos con Python
+- Estructuras de datos y algoritmos con Python
 Kent D. Lee, Steve Hubbard
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-13072-9
 
-Introducción a las ecuaciones diferenciales parciales
+- Introducción a las ecuaciones diferenciales parciales
 Peter J. Olver
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-02099-0
 
-Métodos de modelado matemático
+- Métodos de modelado matemático
 Thomas Witelski, Mark Bowen
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-23042-9
 
-LaTeX en 24 horas
+- LaTeX en 24 horas
 Dilip Datta
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-47831-9
 
-Introducción a la estadística y análisis de datos
+- Introducción a la estadística y análisis de datos
 Christian Heumann, Michael Schomaker, Shalabh
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-46162-5
 
-Principios de minería de datos
+- Principios de minería de datos
 Max Bramer
 http://link.springer.com/openurl?genre=book&isbn=978-1-4471-7307-6
 
-Visión por computador
+- Visión por computador
 Richard Szeliski
 http://link.springer.com/openurl?genre=book&isbn=978-1-84882-935-0
 
-Procesamiento de datos
+- Procesamiento de datos
 Charu C. Aggarwal
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-14142-8
 
-Geometría Computacional
+- Geometría Computacional
 Mark de Berg, Otfried Cheong, Marc van Kreveld, Mark Overmars
 http://link.springer.com/openurl?genre=book&isbn=978-3-540-77974-2
 
-Robótica, Visión y Control
+- Robótica, Visión y Control
 Peter Corke
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-54413-7
 
-Análisis estadístico y visualización de datos
+- Análisis estadístico y visualización de datos
 Richard M. Heiberger, Burt Holland
 http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2122-5
 
-Estadística y Análisis de Datos para Ingeniería Financiera
+- Estadística y Análisis de Datos para Ingeniería Financiera
 David Ruppert, David S. Matteson
 http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2614-5
 
-Procesos estocásticos y cálculo
+- Procesos estocásticos y cálculo
 Uwe Hassler
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-23428-1
 
-Análisis estadístico de datos clínicos en una calculadora de bolsillo
+- Análisis estadístico de datos clínicos en una calculadora de bolsillo
 Ton J. Cleophas, Aeilko H. Zwinderman
 http://link.springer.com/openurl?genre=book&isbn=978-94-007-1211-9
 
-Análisis de datos clínicos en una calculadora de bolsillo
+- Análisis de datos clínicos en una calculadora de bolsillo
 Ton J. Cleophas, Aeilko H. Zwinderman
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-27104-0
 
-El manual de diseño de ciencia de datos
+- El manual de diseño de ciencia de datos
 Steven S. Skiena
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-55444-0
 
-Una introducción al aprendizaje automático
+- Una introducción al aprendizaje automático
 Miroslav Kubat
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-63913-0
 
-Guía de Matemáticas Discretas
+- Guía de Matemáticas Discretas
 Gerard O'Regan
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-44561-8
 
-Introducción a series temporales y pronósticos
+- Introducción a series temporales y pronósticos
 Peter J. Brockwell, Richard A. Davis
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-29854-2
 
-Cálculo multivariado y geometría
+- Cálculo multivariado y geometría
 Seán Dineen
 http://link.springer.com/openurl?genre=book&isbn=978-1-4471-6419-7
 
-Estadística y análisis de datos científicos
+- Estadística y análisis de datos científicos
 Massimiliano Bonamente
 http://link.springer.com/openurl?genre=book&isbn=978-1-4939-6572-4
 
-Sistemas informáticos de modelado
+- Sistemas informáticos de modelado
 Faron Moller, Georg Struth
 http://link.springer.com/openurl?genre=book&isbn=978-1-84800-322-4
 
-Metodologías de búsqueda
+- Metodologías de búsqueda
 Edmund K. Burke, Graham Kendall
 http://link.springer.com/openurl?genre=book&isbn=978-1-4614-6940-7
 
-Álgebra lineal bien hecha
+- Álgebra lineal bien hecha
 Sheldon Axler
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-11080-6
 
-Álgebra lineal
+- Álgebra lineal
 Jörg Liesen, Volker Mehrmann
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-24346-7
 
-Álgebra
+- Álgebra
 Serge Lang
 http://link.springer.com/openurl?genre=book&isbn=978-1-4613-0041-0
 
-Análisis de comprensión
+- Análisis de comprensión
 Stephen Abbott
 http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2712-8
 
@@ -254,11 +253,12 @@ Análisis de datos de Excel
 Hector guerrero
 http://link.springer.com/openurl?genre=book&isbn=978-3-030-01279-3
 
-Una guía para principiantes a la programación de Python 3
+- Una guía para principiantes a la programación de Python 3
 John Hunt
 http://link.springer.com/openurl?genre=book&isbn=978-3-030-20290-3
 
-Guía avanzada de programación de Python 3
+- Guía avanzada de programación de Python 3
 John Hunt
 http://link.springer.com/openurl?genre=book&isbn=978-3-030-25943-3
 
+Tomado de: https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
