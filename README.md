@@ -3,49 +3,65 @@ Cursos, libros, demos y todos los recursos posibles para ML, Deep Learning y Red
 Springer ha lanzado cientos de libros gratuitos sobre una amplia gama de temas al público en general. La lista, que incluye 408 libros en total , cubre una amplia gama de temas científicos y tecnológicos. Para ahorrarle algo de tiempo, he creado una lista de todos los libros (65 en número) que son relevantes para el campo de datos y aprendizaje automático.
 Entre los libros, encontrará aquellos relacionados con el lado matemático del dominio (Álgebra, Estadísticas y más), junto con libros más avanzados sobre Aprendizaje profundo y otros temas avanzados. También puede encontrar algunos buenos libros en varios lenguajes de programación como Python, R y MATLAB, etc.
 Si está buscando libros más recomendados sobre Machine Learning y datos, puede consultar mi artículo anterior al respecto.
+
 La lista de 65 libros:
+
 Los elementos del aprendizaje estadístico
 Trevor Hastie, Robert Tibshirani, Jerome Friedman
 http://link.springer.com/openurl?genre=book&isbn=978-0-387-84858-7
+
 Series temporales introductorias con R
 Paul SP Cowpertwait, Andrew V. Metcalfe
 http://link.springer.com/openurl?genre=book&isbn=978-0-387-88698-5
+
 Una guía para principiantes a R
 Alain Zuur, Elena N. Ieno, Erik Meesters
 http://link.springer.com/openurl?genre=book&isbn=978-0-387-93837-0
+
 Introducción a la informática evolutiva
 AE Eiben, JE Smith
 http://link.springer.com/openurl?genre=book&isbn=978-3-662-44874-8
+
 Análisis de los datos
 Siegmund Brandt
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-03762-2
+
 Programacion Lineal y No Lineal
 David G. Luenberger, Yinyu Ye
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-18842-3
+
 Introducción a las ecuaciones diferenciales parciales
 David Borthwick
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-48936-0
+
 Fundamentos de los sistemas mecánicos robóticos
 Jorge Angeles
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-01851-5
+
 Estructuras de datos y algoritmos con Python
 Kent D. Lee, Steve Hubbard
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-13072-9
+
 Introducción a las ecuaciones diferenciales parciales
 Peter J. Olver
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-02099-0
+
 Métodos de modelado matemático
 Thomas Witelski, Mark Bowen
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-23042-9
+
 LaTeX en 24 horas
 Dilip Datta
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-47831-9
+
 Introducción a la estadística y análisis de datos
 Christian Heumann, Michael Schomaker, Shalabh
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-46162-5
+
 Principios de minería de datos
 Max Bramer
 http://link.springer.com/openurl?genre=book&isbn=978-1-4471-7307-6
+
 Visión por computador
 Richard Szeliski
 http://link.springer.com/openurl?genre=book&isbn=978-1-84882-935-0
