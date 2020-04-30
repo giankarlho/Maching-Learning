@@ -7,7 +7,7 @@ Springer ha lanzado cientos de libros gratuitos sobre una amplia gama de temas a
 Entre los libros, encontrará aquellos relacionados con el lado matemático del dominio (Álgebra, Estadísticas y más), junto con libros más avanzados sobre Aprendizaje profundo y otros temas avanzados. También puede encontrar algunos buenos libros en varios lenguajes de programación como Python, R y MATLAB, etc.
 
 Los elementos del aprendizaje estadístico
-<p>Trevor Hastie, Robert Tibshirani, Jerome Friedman
+Trevor Hastie, Robert Tibshirani, Jerome Friedman
 http://link.springer.com/openurl?genre=book&isbn=978-0-387-84858-7
 
 Series temporales introductorias con R
