@@ -1,7 +1,11 @@
-# Maching-Learning
-Cursos, libros, demos y todos los recursos posibles para ML, Deep Learning y Redes Neuronales
+#
 
-## 1.- 65 libros de Ciencia de Datos de Springer
+
+# Maching-Learning Recursos
+* 1.- Notebooks para Estadística y Ciencia de Datos con Python
+
+
+* 2.- 65 libros de Ciencia de Datos de Springer
 Springer ha lanzado cientos de libros gratuitos sobre una amplia gama de temas al público en general. La lista incluye 408 libros pero se describe una lista de todos los libros (65) que son relevantes para el campo de datos y aprendizaje automático.
 Entre los libros, encontrará aquellos relacionados con el lado matemático del dominio (Álgebra, Estadísticas y más), junto con libros más avanzados sobre Aprendizaje profundo y otros temas avanzados. También puede encontrar algunos buenos libros en varios lenguajes de programación como Python, R y MATLAB, etc.
 
