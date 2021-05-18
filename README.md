@@ -1,11 +1,20 @@
-#
-
 
 # Maching-Learning Recursos
-* 1.- Notebooks para Estadística y Ciencia de Datos con Python
 
+### 1.- Notebooks para Estadística y Ciencia de Datos con Python
+01 - Estadística Descriptiva
+02 - Estructuras de Datos, Listas, Tuplas y Diccionarios
+03 - Limpieza de Datos
+04 - Introd. a Numpy y Pandas
+05 - Matplotlib con Fandango
+06 - Random, Numpy y Matplotlib Helados
+07 - Pandas y Matplotlib con Drinks
+08 - Matplotlib con Desempleo
+09 - Seaborn con Emigracion
+10 - Seaborn con Fandango
+11 - Practicando ML
 
-* 2.- 65 libros de Ciencia de Datos de Springer
+### 2.- 65 libros de Ciencia de Datos de Springer
 Springer ha lanzado cientos de libros gratuitos sobre una amplia gama de temas al público en general. La lista incluye 408 libros pero se describe una lista de todos los libros (65) que son relevantes para el campo de datos y aprendizaje automático.
 Entre los libros, encontrará aquellos relacionados con el lado matemático del dominio (Álgebra, Estadísticas y más), junto con libros más avanzados sobre Aprendizaje profundo y otros temas avanzados. También puede encontrar algunos buenos libros en varios lenguajes de programación como Python, R y MATLAB, etc.
 
